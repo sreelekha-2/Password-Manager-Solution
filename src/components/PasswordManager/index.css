@@ -1,0 +1,34 @@
+.top-container {
+  display: flex;
+  flex-direction: row;
+  background-color: #5763a5;
+}
+.image {
+  width: 400px;
+  height: 400px;
+}
+
+.logo {
+  width: 120px;
+  height: 60px;
+}
+.details-container {
+  background-color: #454f84;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.bottom-container {
+  background-color: #454f84;
+  background-size: cover;
+}
+
+.no-passwords {
+  width: 300px;
+  height: 300px;
+}
+.no-passwords-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
